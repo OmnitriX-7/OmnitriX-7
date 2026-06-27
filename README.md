@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science & IT** at **National Institute of Technology, Silchar**
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **National Institute of Technology, Silchar**
 - 🔭 Currently building projects across **Full Stack Web Dev**, **AI/ML**, and **Blockchain**
 - 🌱 Actively exploring **Large Language Models (LLMs)** and **Distributed Systems**
 - 💡 Passionate about turning complex problems into clean, scalable solutions
-- ⚡ Fun fact: If I do something twice, I automate it the third time
+- ⚡ Fun fact: I speak fluent c++, broken Python, and occasional JavaScript profanity.
 
 ---
 
