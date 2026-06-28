@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bilir Goyari 👋</h1>
 
-<h3 align="center">B.Tech CS/IT · NIT Silchar · Full Stack Developer · ML Enthusiast · Competitive Programmer</h3>
+<h3 align="center">B.Tech CSE · NIT Silchar · Full Stack Developer · ML Enthusiast · Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Data+Science+%7C+ML+%7C+AI+Enthusiast;Competitive+Programmer+%7C+Knight+on+LeetCode;B.Tech+CS+%40+NIT+Silchar" alt="Typing SVG" />
